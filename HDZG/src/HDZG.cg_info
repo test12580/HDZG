@@ -1,0 +1,27 @@
+I-Logix-RPY-Archive version 8.10.0 * 8169320
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 1;
+	- value = "G:/Android/workspace/HDZG/src/wyf/ytl/entity/Hero.java" 8.1.2014::6:50:57
+	
+}
+- size = 2;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "entity_1.sbs";
+	- _subsystem = "HDZG::wyf::ytl::entity";
+	- _class = "Hero";
+	- _name = "HeroThread";
+	- _id = GUID 12be130e-d4af-4c7c-800b-ced4aef01137;
+}
+- genTime = 8.1.2014::6:50:58;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "entity_1.sbs";
+	- _subsystem = "HDZG::wyf::ytl::entity";
+	- _class = "";
+	- _name = "Hero";
+	- _id = GUID e5144748-760e-4638-a5a9-2b109bed0e73;
+}
+- genTime = 8.1.2014::6:50:58;
+
